@@ -1,2 +1,2 @@
 # Event-exercises
-Some exercises on the topic "Event"
+This repository contains a  exercise focused on mastering events in C#
